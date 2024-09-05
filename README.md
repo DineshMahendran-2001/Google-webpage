@@ -14,11 +14,11 @@ This project is a static clone of the Google homepage, created using HTML and CS
 # Note
 - This project is a static clone and does not include any backend functionality. Users cannot perform searches or interact with the page beyond its visual representation.
 - Alternatively, you can view the live demo of the project hosted on GitHub Pages at: 
-[https://your-username.github.io/google-homepage-clone/](https://your-username.github.io/google-homepage-clone/)
+[https://github.com/DineshMahendran-2001/Google-webpage.git](https://github.com/DineshMahendran-2001/Google-webpage.git)
 
 # Acknowledgments
 - The design and layout of this project are inspired by the official Google homepage.
 - This project was created as a learning exercise to enhance my HTML and CSS skills.
 
 # Contact
-For any inquiries or feedback, please contact the project maintainer at [your-email@example.com](mailto:your-email@example.com).
+For any inquiries or feedback, please contact the project maintainer at [dineshmahendran2001@gmail.com](dineshmahendran2001@gmail.com).
