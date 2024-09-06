@@ -1,4 +1,4 @@
-# Google Homepage Clone
+# Google Webpage
 
 # Project Description
 This project is a static clone of the Google homepage, created using HTML and CSS. The purpose of this project is to replicate the design and layout of the official Google homepage, showcasing my skills in front-end development and responsive design.
