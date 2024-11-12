@@ -1,7 +1,7 @@
 # Google Webpage
 
 # Project Description
-This project is a static clone of the Google homepage, created using HTML and CSS. The purpose of this project is to replicate the design and layout of the official Google homepage, showcasing my skills in front-end development and responsive design.
+This project is a static copy of the Google homepage, created using HTML and CSS. The purpose of this project is to replicate the design and layout of the official Google homepage, showcasing my skills in front-end development and responsive design.
 
 # Features
 - Static Design: The project mimics the appearance of the Google homepage, including its layout and styling.
@@ -12,7 +12,7 @@ This project is a static clone of the Google homepage, created using HTML and CS
 - CSS
 
 # Note
-- This project is a static clone and does not include any backend functionality. Users cannot perform searches or interact with the page beyond its visual representation.
+- This project is a static copy and does not include any backend functionality. Users cannot perform searches or interact with the page beyond its visual representation.
 - Alternatively, you can view the live demo of the project hosted on GitHub Pages at: 
 [https://github.com/DineshMahendran-2001/Google-webpage.git](https://github.com/DineshMahendran-2001/Google-webpage.git)
 
